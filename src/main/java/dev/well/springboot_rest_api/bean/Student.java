@@ -12,9 +12,7 @@ public class Student {
         this.lastName = lastName;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
+    public String getFirstName(){return firstName;}
 
     public String getLastName() {
         return lastName;
